@@ -1,3 +1,22 @@
 // Place all the styles related to the articles controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+.navbar {
+  display: flex;
+  background-color: #C0BCB5;
+  justify-content: space-between;
+  // position: relative;
+  // align-items: center;
+
+  // .navbar-header {
+  //   position: absolute;
+  //   left: 10px;
+  //   top: 10px;
+  // }
+
+  // .navbar-new-article {
+  //   position: absolute;
+  //   right: 10px;
+  //   top: 10px;
+  // }
+}
